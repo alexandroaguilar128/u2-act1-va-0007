@@ -1,0 +1,38 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-Leon-0007.jpg
+Ruta del archivo: C:\Users\Alumno\Documents\3H_IA-0007\VA_0007\SP_Vision artificial\img-original-0007\img-Leon-0007.jpg
+Formato por extension: .JPG
+Tamano en bytes: 676669
+Tamano en KB: 660.81
+Tamano en MB: 0.6453
+
+DIMENSIONES
+-----------
+Ancho: 1000 pixeles
+Alto: 667 pixeles
+Resolucion: 1000 x 667
+Total de pixeles: 667,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 150.14
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 147.79
+Verde (G): 149.48
+Rojo (R): 153.16
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
+
+Alexandro Aguilar NC = 0007
